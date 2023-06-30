@@ -1,3 +1,10 @@
+*{
+    font-family:'Times New Roman', Times, serif;
+    font-weight: 500px;
+    font-size: 15px;
+
+}
+
 .th{
     color: rgb(205, 56, 56);
     font-size: 18px;
@@ -5,18 +12,15 @@
 }
 
 table  {
+
     border:  rgb(87, 136, 192)  solid 2px ;
     border-radius: 10px;
     margin: 20px;
     padding: 30px;
     background-color:aquamarine;
+   
 }
-*{
-    font-family:'Times New Roman', Times, serif;
-    font-weight: 500px;
-    font-size: 15px;
 
-}
 .btn input{
 
     border-radius:  10px;
